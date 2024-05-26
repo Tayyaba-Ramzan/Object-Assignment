@@ -1,2 +1,2 @@
 # Object-Assignment
- This assignment offers hands-on experience with TypeScript type aliases, a robust feature for structuring objects. Through tasks involving employee data, car details, and colorful T-shirts, you'll reinforce your understanding of object structures and their implementation in TypeScript.
+𝘛𝘩𝘪𝘴 𝘢𝘴𝘴𝘪𝘨𝘯𝘮𝘦𝘯𝘵 𝘦𝘮𝘱𝘩𝘢𝘴𝘪𝘻𝘦𝘴 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵 𝘵𝘺𝘱𝘦 𝘢𝘭𝘪𝘢𝘴𝘦𝘴, 𝘦𝘯𝘩𝘢𝘯𝘤𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘰𝘣𝘫𝘦𝘤𝘵 𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘪𝘯𝘨 𝘴𝘬𝘪𝘭𝘭𝘴 𝘶𝘴𝘪𝘯𝘨 𝘦𝘹𝘢𝘮𝘱𝘭𝘦𝘴 𝘭𝘪𝘬𝘦 𝘦𝘮𝘱𝘭𝘰𝘺𝘦𝘦 𝘥𝘢𝘵𝘢, 𝘤𝘢𝘳 𝘥𝘦𝘵𝘢𝘪𝘭𝘴, 𝘢𝘯𝘥 𝘛-𝘴𝘩𝘪𝘳𝘵 𝘤𝘰𝘭𝘰𝘳𝘴.
